@@ -1,0 +1,16 @@
+{
+  "name": "chevrotain-hello-world",
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexander Tsang <ahtsang@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chevrotain": "^10.1.2"
+  }
+}
